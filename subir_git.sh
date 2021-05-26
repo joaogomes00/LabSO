@@ -5,7 +5,7 @@
 echo "digite sua mensagem"
 read MENSAGEM
 
-git add * 
+git add *
 
 git commit -m "$MENSAGEM"
 
